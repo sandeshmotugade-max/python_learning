@@ -1,10 +1,10 @@
 
-a = 30   # Students in classrom
-b = 25   # Present Students
-c = 5    # Absent Students
 
-print ("Total Students in Classroom = ",a)
-print ("Present Students in Classroom = ",b)
-print ("Absent Students in Classroom = ",c)
+a = 800 # A man covers  a distance  of 800m
+b = 160 # In 160 seconds
 
-   
+# To find the speed of the man 
+
+speed = a / b     # Speed = Distance / Time
+print("speed", speed, "m/s")   
+    
