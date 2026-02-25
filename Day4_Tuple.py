@@ -9,4 +9,12 @@ print("")
 print(type(sports))
 print("")
 
-sports[0] = "Baseball"
+#sports[0] = "Baseball"
+
+print(sports[2])
+print("")
+
+print(sports[2:4])
+print("")
+
+print("Total Elements:", len(sports))
