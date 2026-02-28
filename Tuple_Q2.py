@@ -17,5 +17,7 @@ print(bonus_month * 3)
 print("")
 
 print( monthly_sales[0:3])
-print(monthly_sales[-1:-2])
+print(monthly_sales[-2:-1])
 print(300000  in monthly_sales)
+
+print(monthly_sales.count(300000))
