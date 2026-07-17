@@ -1,0 +1,9 @@
+# Ignore environment variables and Python cache
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+.vscode/
+.DS_Store
